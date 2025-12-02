@@ -1,0 +1,5 @@
+{
+  "name": "LogoGenerate",
+  "description": "A professional AI-powered logo generator using Gemini models to create stunning brand identities in seconds.",
+  "requestFramePermissions": []
+}
